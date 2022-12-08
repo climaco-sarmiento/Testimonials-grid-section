@@ -8,6 +8,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Built with](#built-with)
+  - [Links](#Links)
 - [Author](#author)
 
 ## Overview
@@ -28,6 +29,11 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+
+### Links
+
+- Solution URL: [click here](https://github.com/climaco-sarmiento/Testimonials-grid-section-challenge)
+- Live Site URL: [click here](https://climaco-sarmiento.github.io/Testimonials-grid-section-challenge/)
 
 ## Author
 
